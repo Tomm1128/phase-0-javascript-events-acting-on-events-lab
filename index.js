@@ -1,6 +1,3 @@
-// Your code here
-
-
 const dodger = document.getElementById("dodger");
 
 const moveDodgerLeft = () => {
